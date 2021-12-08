@@ -92,3 +92,7 @@ img:hover {
   text-align: center;
   background-image: linear-gradient(pink, lavender, turquoise);
 }
+p{
+  color: aqua;
+}
+
